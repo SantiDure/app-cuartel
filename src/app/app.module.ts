@@ -7,7 +7,8 @@ import { NavbarComponent } from './componentes/navbar/navbar.component';
 import { FooterComponent } from './componentes/footer/footer.component';
 import { BodyComponent } from './componentes/body/body.component';
 import { InicioComponent } from './componentes/inicio/inicio.component';
-import { MiEstadoComponent } from './componentes/mi-estado/mi-estado.component';
+import { MiEstadoComponent } from './componentes/estado-lista/mi-estado.component';
+import { ListaComponent } from './componentes/estado-lista/lista.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { MiEstadoComponent } from './componentes/mi-estado/mi-estado.component';
     FooterComponent,
     BodyComponent,
     InicioComponent,
-    MiEstadoComponent
+    MiEstadoComponent,
+    ListaComponent
   ],
   imports: [
     BrowserModule,

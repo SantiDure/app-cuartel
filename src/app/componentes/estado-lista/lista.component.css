@@ -1,0 +1,14 @@
+#tabla-lista{
+  margin: 30px;
+
+}
+
+table{
+  color: white;
+}
+
+#tabla-lista .volver-btn{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
