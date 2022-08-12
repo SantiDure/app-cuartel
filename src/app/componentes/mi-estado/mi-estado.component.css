@@ -1,0 +1,24 @@
+
+
+.pres-aus{
+  width: 10em;
+  height: 10em;
+  border-radius: 50%;
+  font-size: 30px;
+  margin: 20px;
+}
+
+#mi-estado-h1{
+  text-align: center;
+  color: white;
+  margin: 20px;
+}
+
+#botones{
+  justify-content: center;
+}
+
+#ver-lista-btn{
+  justify-content: center;
+  margin-top: 10px;
+}

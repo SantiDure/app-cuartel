@@ -1,0 +1,25 @@
+#logo-cuartel{
+  width: 5em;
+  height: 5em
+}
+
+nav{
+  background-color: black;
+  display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+
+img{
+ margin: 5px
+}
+
+nav h1{
+  color: white;
+  margin-left: 5px;
+  font-size: 2em;
+}
+
+nav .button-log{
+  margin: 10px;
+}
